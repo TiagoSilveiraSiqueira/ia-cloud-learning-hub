@@ -87,6 +87,12 @@ Para apresentar um resultado, explique o problema, a entrada, a decisão, o que 
 
 Os laboratórios não precisam de dados de uma empresa. Mantenha credenciais, conversas profissionais e configurações internas fora das contribuições públicas.
 
+## Comunidade e roadmap
+
+Use o [roadmap público com oito entregas](https://github.com/TiagoSilveiraSiqueira/ia-cloud-learning-hub/issues/1) para acompanhar a prática. A lista é uma trilha de aprendizagem, não um registro de resultados de uma empresa.
+
+O [espaço de perguntas e discussões](https://github.com/TiagoSilveiraSiqueira/ia-cloud-learning-hub/discussions) está aberto para dúvidas e exemplos de laboratório. Inclua o projeto, a entrada fictícia ou fonte pública e o resultado que você quer conferir.
+
 ## Contribuir
 
 Uma dúvida reproduzível ajuda a melhorar a trilha. Informe a etapa, o cenário de laboratório, o resultado observado e o que você esperava conseguir verificar. Veja [CONTRIBUTING.md](CONTRIBUTING.md).
